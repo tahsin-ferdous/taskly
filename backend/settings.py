@@ -35,6 +35,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 ALLOWED_HOSTS = ["*"]
 CSRF_TRUSTED_ORIGINS = [
     'https://taskly-django-backend.vercel.app/',
+    'https://taskly-blue.vercel.app/',
     'https://taskly-waa8.onrender.com',
     'https://*.127.0.0.1',
     'http://127.0.0.1:5500',
