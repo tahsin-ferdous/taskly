@@ -108,7 +108,8 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
-        default='postgresql://taskly_qhnl_user:8IuRHADxc9PTHovLzQRkDUKKaLiTmc73@dpg-crg09vrv2p9s73a4n0v0-a.oregon-postgres.render.com/taskly_qhnl',
+        # default='postgresql://taskly_qhnl_user:8IuRHADxc9PTHovLzQRkDUKKaLiTmc73@dpg-crg09vrv2p9s73a4n0v0-a.oregon-postgres.render.com/taskly_qhnl',
+        default='postgresql://taskly_sn9m_user:8FA9cH9ikno7ckK61wSG9bwFIPgJ8pcT@dpg-csvl88popnds738b58rg-a.oregon-postgres.render.com/taskly_sn9m',
     )
 }
 # Password validation
