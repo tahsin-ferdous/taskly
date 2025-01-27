@@ -60,11 +60,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+
     'rest_framework',
     'rest_framework.authtoken',
     'django_filters',
-    
+
     'accounts',
     'tasks',
     "corsheaders",
@@ -110,7 +110,7 @@ DATABASES = {
         # Replace this value with your local database's connection string.
         # default='postgresql://taskly_qhnl_user:8IuRHADxc9PTHovLzQRkDUKKaLiTmc73@dpg-crg09vrv2p9s73a4n0v0-a.oregon-postgres.render.com/taskly_qhnl',
         # default='postgresql://taskly_sn9m_user:8FA9cH9ikno7ckK61wSG9bwFIPgJ8pcT@dpg-csvl88popnds738b58rg-a.oregon-postgres.render.com/taskly_sn9m',
-        default='postgresql://taskly_vk5c_user:Zkz09GUjBWQCkgjYhfix2CiE3W3ZeVAj@dpg-ctmit252ng1s73bcjuhg-a.oregon-postgres.render.com/taskly_vk5c',
+        default='postgresql://taskly_doa1_user:FUuqFyg2PDLv7S7LrqQFCmxeDTYbWUIP@dpg-cubi322j1k6c73ebuoa0-a.oregon-postgres.render.com/taskly_doa1',
     )
 }
 # Password validation
