@@ -110,7 +110,7 @@ DATABASES = {
         # Replace this value with your local database's connection string.
         # default='postgresql://taskly_qhnl_user:8IuRHADxc9PTHovLzQRkDUKKaLiTmc73@dpg-crg09vrv2p9s73a4n0v0-a.oregon-postgres.render.com/taskly_qhnl',
         # default='postgresql://taskly_sn9m_user:8FA9cH9ikno7ckK61wSG9bwFIPgJ8pcT@dpg-csvl88popnds738b58rg-a.oregon-postgres.render.com/taskly_sn9m',
-        default='postgresql://taskly_doa1_user:FUuqFyg2PDLv7S7LrqQFCmxeDTYbWUIP@dpg-cubi322j1k6c73ebuoa0-a.oregon-postgres.render.com/taskly_doa1',
+        default='postgresql://taskly_database_user:MyWYkZH8LbJsiDjN6is607eMTZhdMK7y@dpg-cupcq723esus738cgpj0-a.oregon-postgres.render.com/taskly_database',
     )
 }
 # Password validation
